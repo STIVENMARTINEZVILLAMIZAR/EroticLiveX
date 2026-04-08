@@ -1,4 +1,4 @@
-# LUJURIA WEB
+# Luxe Instinct
 
 Backend inicial para una plataforma tipo marketplace + streaming + chat persistente en tiempo real.
 
